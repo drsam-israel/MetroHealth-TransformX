@@ -1,0 +1,13 @@
+facility_id,facility_name,facility_type
+FAC-001,MetroHealth Central Hospital,Tertiary Hospital
+FAC-002,LagosCare Emergency Center,Emergency
+FAC-003,Abuja Specialist Hospital,Specialist Hospital
+FAC-004,Kano Community Clinic,Primary Care
+FAC-005,Port Harcourt Medical Center,General Hospital
+FAC-006,Central Diagnostic Laboratory,Laboratory
+FAC-007,Prime Pharmacy Network,Pharmacy
+FAC-008,National HMO Connect,HMO
+FAC-009,TeleHealth Nigeria,Telemedicine
+FAC-010,Maternal & Child Health Center,Specialist Clinic
+FAC-011,CardioRenal Institute,Specialist Center
+FAC-012,Infectious Disease Surveillance Unit,Public Health
